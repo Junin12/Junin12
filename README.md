@@ -21,5 +21,7 @@
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+[<img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/6e8da6e1-4dc4-4e3f-8358-3026426d9b41/public_url) 
+
 ### ✅ Formação Superior em Engenharia Civil (UFV-CRP, 2018)
 ### 🧑‍🎓 Estudando Ciência de Dados (Estácio, conclusão em Julho de 2024).
