@@ -1,8 +1,15 @@
 ### 🖐️ Olá eu sou o Wiliam Junior! 
 
+### 🎓 Escolaridade
+- Formação Superior em Engenharia Civil (UFV-CRP, 2018)
+- Estudando Ciência de Dados (Estácio, conclusão em Julho de 2024)
+
 ### 👥 Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiliamveras/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wiliamveras)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:verasengenheiro@gmail.com)
+[![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/verasengenheiro)
+
 
 ### 🤖 Interesses
 - Machine Learning / AI
@@ -23,5 +30,3 @@
 
 [<img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/6e8da6e1-4dc4-4e3f-8358-3026426d9b41/public_url) 
 
-### ✅ Formação Superior em Engenharia Civil (UFV-CRP, 2018)
-### 🧑‍🎓 Estudando Ciência de Dados (Estácio, conclusão em Julho de 2024).
