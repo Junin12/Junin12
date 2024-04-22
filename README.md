@@ -29,4 +29,4 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 [<img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/6e8da6e1-4dc4-4e3f-8358-3026426d9b41/public_url) 
-
+[<img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100" height="100">](https://www.credly.com/earner/earned/badge/fa49febb-fb4a-4522-9339-6c19b33bf15a) 
