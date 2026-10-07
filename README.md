@@ -2,7 +2,7 @@
 
 ### 🎓 Escolaridade
 - Formação Superior em Engenharia Civil (UFV-CRP, 2018)
-- Estudando Ciência de Dados (Estácio, conclusão em Julho de 2024)
+- Tecnólogo de Ciência de Dados (Estácio,2024)
 
 ### 👥 Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiliamveras/)
